@@ -144,6 +144,7 @@ a:visited {
     /* //color: ; */
     background-color: #181425;
     display: flex;
+    justify-content: space-between;
 }
 .cntct-section{
     /* width: 100%; */
@@ -151,16 +152,17 @@ a:visited {
     /* margin-bottom: 2%; */
     display: flex;
     justify-content: space-around;
-    color: #181425;
+    /* color: #181425; */
     /* flex-wrap: wrap; */
     /* background-color:#FFFFFF; */
     text-align: center;
 
 }
 .section{
-    /* width: 50%; background-color: aqua; */
+    /* /* width: 50%;  */
+    /* background-color: aqua; */
     padding: 2%;
-    font-size: 8px;
+    /* font-size: 8px; */
 }
 .picsection{
     margin-right: 0px;
